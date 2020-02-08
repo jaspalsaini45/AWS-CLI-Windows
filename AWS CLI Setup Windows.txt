@@ -1,0 +1,34 @@
+*********************************************************
+************************AWS CLI**************************
+*********************************************************
+Windows Installer MSI
+
+Open cmd aws --version
+
+Use IAM in aws console to crate user with CLI and other services
+
+permission
+
+form security credentilas download the csv file containing  and keep it safe for later use
+
+ 
+
+Configuration
+in cmd type 
+
+aws configure
+
+aws access key ID
+aws secret access key
+default region name optional
+defualt output format  optional
+aws s3 ls     list s3 buckets
+
+
+
+
+
+
+
+
+
